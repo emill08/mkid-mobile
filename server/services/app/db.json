@@ -1,0 +1,219 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "username": "ezwx",
+            "password": 12345
+        },
+        {
+            "id": 2,
+            "username": "ujank",
+            "password": 12345
+        }
+    ],
+    "categories": [
+        {
+            "id": 1,
+            "name": "keyboard"
+        },
+        {
+            "id": 2,
+            "name": "switch"
+        },
+        {
+            "id": 3,
+            "name": "accessories"
+        }
+    ],
+    "products": [
+        {
+            "id": 1,
+            "name": "Ducky One 2 Mini Mechanical Keyboard",
+            "CategoryId": 1,
+            "UserId": 1,
+            "price": 1861500,
+            "description": "A compact 60% mechanical keyboard with PBT keycaps and RGB lighting.",
+            "image": "https://mechanicalkeyboards.com/shop/images/products/large_4322_large_DKON1861ST-USPDAZT1_8.png"
+        },
+        {
+            "id": 2,
+            "name": "Keychron K6 Wireless Mechanical Keyboard",
+            "CategoryId": 1,
+            "UserId": 1,
+            "price": 816000,
+            "description": "A compact wireless mechanical keyboard with hot-swappable switches and Mac/Windows compatibility.",
+            "image": "https://m.media-amazon.com/images/I/61jFhEP+snS.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Glorious GMMK Full-Size Keyboard",
+            "CategoryId": 1,
+            "UserId": 1,
+            "price": 1160500,
+            "description": "A modular full-size mechanical keyboard with hot-swappable switches and customizable RGB lighting.",
+            "image": "https://www.gloriousgaming.com/cdn/shop/t/164/assets/glorious_gaming_gmmk_tsyn_fullSize_black.png"
+        },
+        {
+            "id": 4,
+            "name": "Varmilo VA87M Mechanical Keyboard",
+            "CategoryId": 1,
+            "UserId": 1,
+            "price": 2001500,
+            "description": "A high-quality tenkeyless mechanical keyboard with dye-sublimated PBT keycaps and various switch options.",
+            "image": "https://www.mechanicalkeyboards.co.id/assets/uploads/products/thumbs/1125x1125/MKID_Varmilo_VA87M_Vintage_Days_CMYK_White_LED_12.jpg"
+        },
+        {
+            "id": 5,
+            "name": "Ducky Shine 7 Mechanical Keyboard",
+            "CategoryId": 1,
+            "UserId": 1,
+            "price": 2051500,
+            "description": "A premium mechanical keyboard with Cherry MX switches, customizable RGB lighting, and aluminum construction.",
+            "image": "https://blossomzones.com/wp-content/uploads/2023/06/SHINE-7.jpg"
+        },
+        {
+            "id": 6,
+            "name": "Cooler Master CK550 Mechanical Gaming Keyboard",
+            "CategoryId": 1,
+            "UserId": 1,
+            "price": 1160500,
+            "description": "A budget-friendly mechanical gaming keyboard with Gateron switches and customizable RGB lighting.",
+            "image": "https://i5.walmartimages.com/asr/68c354dc-2ebe-42f6-b19a-f5a29c54e8ba_1.1b71e062bb0b8572757f175d61ffd82d.jpeg"
+        },
+        {
+            "id": 7,
+            "name": "Roccat Vulcan 120 AIMO Mechanical Gaming Keyboard",
+            "CategoryId": 1,
+            "UserId": 1,
+            "price": 1499900,
+            "description": "A sleek mechanical gaming keyboard with Titan switches and vibrant AIMO RGB lighting.",
+            "image": "https://m.media-amazon.com/images/I/81fOOFV6T8L._AC_UF1000,1000_QL80_.jpg"
+        },
+        {
+            "id": 8,
+            "name": "Ducky One 2 SF Mechanical Keyboard",
+            "CategoryId": 1,
+            "UserId": 1,
+            "price": 1399900,
+            "description": "A compact 65% mechanical keyboard with PBT keycaps and detachable USB-C cable.",
+            "image": "https://www.fraggamingstore.com/wp-content/uploads/2019/11/ducky-one-2-sf-1-800x800.jpg"
+        },
+        {
+            "id": 10,
+            "name": "TGR-Jane v2",
+            "CategoryId": 1,
+            "UserId": 1,
+            "price": 65000000,
+            "description": "A smart customizable mechanical keyboard",
+            "image": "https://pbs.twimg.com/media/ExbN8ylVIAABvJX?format=jpg&name=4096x4096"
+        },
+        {
+            "id": 11,
+            "name": "Glorious GMMK Compact Keyboard",
+            "CategoryId": 1,
+            "UserId": 1,
+            "price": 999900,
+            "description": "A modular compact mechanical keyboard with hot-swappable switches and customizable RGB lighting.",
+            "image": "https://m.media-amazon.com/images/I/61FA0nXQTtL.jpg"
+        },
+        {
+            "id": 12,
+            "name": "Kailh Box White Switch",
+            "CategoryId": 2,
+            "UserId": 1,
+            "price": 75000,
+            "description": "A clicky mechanical switch with a distinctive click sound and tactile feedback.",
+            "image": "https://files.pccasegear.com/images/1627602947-KAI-WHITE-thb3.jpg"
+        },
+        {
+            "id": 13,
+            "name": "Zealio V2 Switch",
+            "CategoryId": 2,
+            "UserId": 1,
+            "price": 120000,
+            "description": "A highly tactile mechanical switch with a pronounced tactile bump and a smooth keystroke.",
+            "image": "https://ae01.alicdn.com/kf/H8fe13f67cb6d4a0f9b48fcc511dbd7d1c/IDOBAO-Gateron-Zealios-V2-Switches-Taktil-62G-65G-67G-78G-untuk-Keyboard-Mekanis-Dapat-Disesuaikan.jpg"
+        },
+        {
+            "id": 14,
+            "name": "Kailh Speed Silver Switch",
+            "CategoryId": 2,
+            "UserId": 1,
+            "price": 60000,
+            "description":"A linear mechanical switch with a short travel distance and a low actuation force.",
+            "image": "https://files.pccasegear.com/images/1627602988-KAI-SILVER-thb3.jpg"
+        },
+        {
+            "id": 15,
+            "name": "Holy Panda Switch",
+            "CategoryId": 2,
+            "UserId": 1,
+            "price": 150000,
+            "description": "A highly tactile mechanical switch known for its smooth keystrokes and pronounced tactile bump.",
+            "image": "https://images.tokopedia.net/img/cache/700/hDjmkQ/2022/7/26/58da494e-91a6-42d5-9df3-ae98e58070c1.jpg"
+        },
+        {
+            "id": 16,
+            "name": "Kailh Box Jade Switch",
+            "CategoryId": 2,
+            "UserId": 1,
+            "price": 80000,
+            "description": "A clicky mechanical switch with a heavy actuation force and a loud click sound.",
+            "image": "https://1upkeyboards.com/wp-content/uploads/2018/10/Switches-Kailh-Box-V2-Jade-Green.jpg"
+        },
+        {
+            "id": 17,
+            "name": "Tai-Hao Hawaii PBT Double Shot Keycaps - 104 Keys",
+            "CategoryId": 3,
+            "UserId": 1,
+            "price": 250000,
+            "description": "Affordable keycap sets available in a variety of colors and styles.",
+            "image": "https://m.media-amazon.com/images/I/711Juhsp2xL.jpg"
+        },
+        {
+            "id": 18,
+            "name": "GMK Wild Keycaps - 129 Keys",
+            "CategoryId": 3,
+            "UserId": 1,
+            "price": 2150000,
+            "description": "Minimalistic keycaps featuring a clean and simple design, perfect for a sleek aesthetic.",
+            "image": "https://i.etsystatic.com/24507784/r/il/6fd755/3740225395/il_570xN.3740225395_4ium.jpg"
+        },
+        {
+            "id": 19,
+            "name": "EnjoyPBT White on Black Keycaps - 153 Keys",
+            "CategoryId": 3,
+            "UserId": 1,
+            "price": 380000,
+            "description": "Durable keycaps made from thick PBT plastic, known for their resistance to shine and fading.",
+            "image": "https://ae01.alicdn.com/kf/Ue442466a5098489f88f8f291d47391bdY/Enjoypbt-Keycaps-Putih-Pada-Bahan-ABS-Kunci-153-Hitam-Cocok-untuk-Sebagian-Besar-Keyboard-Mekanis.jpg"
+        },
+        {
+            "id": 20,
+            "name": "KAT 9009 Keycaps",
+            "CategoryId": 3,
+            "UserId": 1,
+            "price": 649000,
+            "description": "Low-profile keycaps with a sculpted profile and a comfortable typing experience.",
+            "image": "https://ae01.alicdn.com/kf/Ue442466a5098489f88f8f291d47391bdY/Enjoypbt-Keycaps-Putih-Pada-Bahan-ABS-Kunci-153-Hitam-Cocok-untuk-Sebagian-Besar-Keyboard-Mekanis.jpg"
+        },
+        {
+            "id": 21,
+            "name": "JTK Illusion Keycaps",
+            "CategoryId": 3,
+            "UserId": 1,
+            "price": 719000,
+            "description": "High-quality keycaps available in a wide range of colors and themes.",
+            "image": "https://keyspensory.store/cdn/shop/products/llDsLN_FegBCsp7ig2vfppLYG0UI.png"
+        },
+        {
+            "id": 22,
+            "name": "KBDFans MAXKEY SA Ocean Keycaps - 134 Keys",
+            "CategoryId": 3,
+            "UserId": 1,
+            "price": 350000,
+            "description": "Vibrant keycaps with bold color schemes and unique designs.",
+            "image": "https://us.maxgaming.com/bilder/artiklar/zoom/20596_4.jpg"
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+[
+    {
+        "CategoryId": 1,
+        "name": "TGR-Jane v2",
+        "price": 65000000,
+        "description": "A smart customizable mechanical keyboard",
+        "mainImage": "https://images.squarespace-cdn.com/content/v1/5f68da90297b94613c756dd6/1664909536289-2JEBXQM09PGX87PRGQ8D/LXI05775.jpg",
+        "userMongoId": "64bba279b2b1da13f57b1796"
+    },
+    {
+        "CategoryId": 1,
+        "name": "Glorious GMMK Compact Keyboard",
+        "price": 999900,
+        "description": "A modular compact mechanical keyboard with hot-swappable switches and customizable RGB lighting.",
+        "mainImage": "https://www.gloriousgaming.com/cdn/shop/products/glorious_gaming_gmmk_compact_white_keyboard_05.png",
+        "userMongoId": "64bba279b2b1da13f57b1796"
+    },
+    {
+        "CategoryId": 2,
+        "name": "Zeal Zealio V2 Switch - Tactile",
+        "price": 12000,
+        "description": "A highly tactile mechanical switch with a pronounced tactile bump and a smooth keystroke.",
+        "mainImage": "https://divinikey.com/cdn/shop/products/zeal-zealios-v2-tactile-switches-548133.jpg",
+        "userMongoId": "64bba279b2b1da13f57b1796"
+    },
+    {
+        "CategoryId": 2,
+        "name": "Kailh Box Jade Switch - Clicky",
+        "price": 7000,
+        "description": "A clicky mechanical switch with a heavy actuation force and a loud click sound.",
+        "mainImage": "https://divinikey.com/cdn/shop/products/kailh-box-jade-thick-switches-500562.jpg",
+        "userMongoId": "64bba279b2b1da13f57b1796"
+    },
+    {
+        "CategoryId": 3,
+        "name": "GMK - Red Samurai Keycaps",
+        "price": 2500000,
+        "description": "Minimalistic keycaps featuring a clean and simple design, perfect for a sleek aesthetic.",
+        "mainImage": "https://massdrop-s3.imgix.net/product-images/drop-redsuns-gmk-red-samurai-keycap-set/FP/UtkUlcRSJeT5rHpoiNxn_CB5A0769-copy.jpg",
+        "userMongoId": "64bba279b2b1da13f57b1796"
+    }
+]

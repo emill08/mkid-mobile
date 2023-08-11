@@ -1,0 +1,42 @@
+[
+    {
+        "ProductId": 1,
+        "imageUrl": "https://images.squarespace-cdn.com/content/v1/5f68da90297b94613c756dd6/45d8475c-9317-487d-be81-7dd7b3b08fcd/LXI05777.jpg"
+    },
+    {
+        "ProductId": 1,
+        "imageUrl": "https://images.squarespace-cdn.com/content/v1/5f68da90297b94613c756dd6/6d513ce5-debd-4134-99a7-766ff66ca0e5/LXI05784.jpg"
+    },
+    {
+        "ProductId": 2,
+        "imageUrl": "https://www.gloriousgaming.com/cdn/shop/products/compact_white_zoomed.png"
+    },
+    {
+        "ProductId": 2,
+        "imageUrl": "https://www.gloriousgaming.com/cdn/shop/products/glorious_gaming_gmmk_compact_white_keyboard_06.png"
+    },
+    {
+        "ProductId": 3,
+        "imageUrl": "https://divinikey.com/cdn/shop/products/zeal-zealios-v2-tactile-switches-563855.jpg"
+    },
+    {
+        "ProductId": 3,
+        "imageUrl": "https://divinikey.com/cdn/shop/products/zeal-zealios-v2-tactile-switches-230225.jpg"
+    },
+    {
+        "ProductId": 4,
+        "imageUrl": "https://divinikey.com/cdn/shop/products/kailh-box-jade-thick-switches-407278.jpg"
+    },
+    {
+        "ProductId": 4,
+        "imageUrl": "https://divinikey.com/cdn/shop/products/kailh-box-jade-thick-switches-212583.jpg"
+    },
+    {
+        "ProductId": 5,
+        "imageUrl": "https://massdrop-s3.imgix.net/product-images/drop-redsuns-gmk-red-samurai-keycap-set/FP/ChMVh6T4TxGq39N0inC0_CB5A1441-copy.jpg"
+    },
+    {
+        "ProductId": 5,
+        "imageUrl": "https://massdrop-s3.imgix.net/product-images/drop-redsuns-gmk-red-samurai-keycap-set/FP/gTuKwsSRIuLa9EtsCohQ_CB5A0781-copy.jpg"
+    }
+]
